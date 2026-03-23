@@ -12,7 +12,9 @@ from analyzer import extract_skills, compare_roles, calculate_skill_gap, generat
 from resume_parser import extract_text_from_resume
 from hybrid_retriever import build_bm25_index, hybrid_search
 from report_generator import generate_report
-import ollama
+from openai import OpenAI
+client = OpenAI()
+
 
 # ---------------- CONFIG ----------------
 st.set_page_config(page_title="CareerRAG Pro", layout="wide")
@@ -207,9 +209,15 @@ elif page == "AI Career Advisor":
 
             context = "\n\n".join(results)
 
-            response = ollama.chat(
-                model="gemma:2b",
-                messages=[{"role": "user", "content": f"{context}\n{query}"}]
+            response = client.chat.completions.create(
+                model="gpt-4o-mini",
+                messages=[
+                    {"role": "system", "content": "You are a helpful AI career advisor."},
+                    {"role": "user", "content": f"{context}\n{query}"}
+                ]
             )
+
+            answer = response.choices[0].message.content
+            st.write(answer)
 
             st.write(response["message"]["content"])
