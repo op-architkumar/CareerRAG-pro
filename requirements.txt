@@ -1,0 +1,10 @@
+streamlit
+faiss-cpu
+sentence-transformers
+rank-bm25
+plotly
+reportlab
+scikit-learn
+numpy
+pandas
+openai
