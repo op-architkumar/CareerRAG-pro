@@ -1,0 +1,95 @@
+xperience: 5.00 + years
+
+Salary: INR 2500000-3500000 / year (based on experience)
+
+Expected Notice Period: 15 Days
+
+Shift: (GMT+05:30) Asia/Kolkata (IST)
+
+Opportunity Type: Remote
+
+Placement Type: Full Time Permanent position(Payroll and Compliance to be managed by: Winmore)
+
+(*Note: This is a requirement for one of Uplers' client - Winmore)
+
+What do you need for this opportunity?
+
+Must have skills required:
+
+Python, Node Js, Express Js, Microservices, AWS, React Js, API, SQS/SNS, Kafka, graph database, contenarization, Orchestration
+
+Winmore is Looking for: 
+
+We are seeking a Full Stack Developer with strong expertise in backend development. The ideal candidate should excel at building scalable APIs, designing robust databases, and architecting server-side logic, while being comfortable with front-end development using React.js.
+
+Key Responsibilities
+
+Backend Development:
+
+Develop scalable APIs and microservices using Node.js, Express.js, or equivalent frameworks.
+Design and optimize RESTful and GraphQL APIs for scalability and performance.
+Design relational and NoSQL database schemas ensuring high availability and efficient queries.
+Implement authentication, authorization, and secure coding practices.
+Work with event-driven architectures using messaging systems such as SQS, SNS, Kafka or Google Pub/Sub Front-End Contribution
+Contribute to front-end features using React.js and ensure smooth integration with backend services.
+Collaborate with frontend engineers to ensure efficient API consumption and UI integration.
+
+
+Cloud & DevOps:
+
+Deploy backend services on AWS (Lambda, ECS, API Gateway).
+Work with CI/CD pipelines and monitoring tools to support reliable deployments and system observability.
+
+
+Requirements
+
+Technical Expertise:
+
+Backend Expertise: Node.js, Express.js, API design (REST/GraphQL), microservices.
+Databases: Strong knowledge of SQL (PostgreSQL/MySQL), NoSQL (MongoDB/DynamoDB), caching (Redis).
+Strong understanding of Object-Oriented Programming (OOP) principles.
+Experience with query optimization and efficient database design.
+Event-Driven Systems: SQS, SNS, Kafka (preferred).
+Cloud & Infrastructure: AWS (Lambda, ECS, S3, DynamoDB, API Gateway, Step Functions), CI/CD pipelines.
+Front-End Proficiency: React.js, Redux, JavaScript/TypeScript.
+Programming: Strong experience with JavaScript/TypeScript; Python experience is a plus.
+Security: JWT/OAuth2, IAM, best practices for securing APIs and data.
+Testing & Monitoring: Mocha/Jest, Postman, Datadog/ELK/CloudWatch.
+
+
+Work Environment & Soft Skills:
+
+Strong system design and architecture skills.
+Ability to work on complex, high-performance distributed systems.
+Collaborative, proactive, and adaptable to changing priorities.
+Strong problem-solving mindset and analytical skills.
+
+
+Nice to Have:
+
+Understanding of software design patterns.
+Exposure to Graph Databases (Neo4j), Redshift, or Cassandra.
+Familiarity with containerization and orchestration (Docker, Kubernetes).
+
+
+Interview Process:
+
+Round 1: Technical Screening
+Round 2: Technical deep dive (Project Manager)
+Round 3: Cultural fitment
+
+
+How to apply for this opportunity?
+
+Step 1: Click On Apply! And Register or Login on our portal.
+Step 2: Complete the Screening Form & Upload updated Resume
+Step 3: Increase your chances to get shortlisted & meet the client for the Interview!
+
+
+About Uplers:
+
+Our goal is to make hiring reliable, simple, and fast. Our role will be to help all our talents find and apply for relevant contractual onsite opportunities and progress in their career. We will support any grievances or challenges you may face during the engagement.
+
+(Note: There are many more opportunities apart from this on the portal. Depending on the assessments you clear, you can apply for them as well).
+
+So, if you are ready for a new challenge, a great work environment, and an opportunity to take your career to the next level, don't hesitate to apply today. We are waiting for you!

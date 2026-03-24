@@ -1,0 +1,27 @@
+About the job
+This job is sourced from a job board. Learn More
+Lead the development of frontend architecture and implement scalable, maintainable, and
+
+high-performance web applications.
+
+ Conduct code reviews and provide constructive feedback to team members to ensure adherence to best
+
+practices and coding standards.
+
+ Mentor and guide junior frontend developers, fostering a culture of continuous learning and
+
+improvement.
+
+ Stay up-to-date with the latest frontend technologies, frameworks, and industry trends, and integrate new
+
+solutions as appropriate.
+
+ Coordinate with the project management team to ensure the timely delivery of high-quality frontend
+
+components and features.
+
+ Contribute to the development of reusable components, tools, and libraries to improve team productivity
+
+and code maintainability.
+
+Skills:- HTML/CSS, Javascript, React.js and GitHub

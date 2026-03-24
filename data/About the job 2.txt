@@ -1,0 +1,67 @@
+About the job
+At EY, we’re all in to shape your future with confidence.
+
+We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go.
+
+Join EY and help to build a better working world.
+
+Career FamilyFull-stack Engineer
+
+Role TypeFull Time
+
+The opportunity
+
+We are the only professional services organization who has a separate business dedicated exclusively to the financial services marketplace. Join Risk and Compliance Engineering Team and you will work with multi-disciplinary teams from around the world to deliver a global perspective. Aligned to key industry groups including Risk Management, Asset management, Banking and Capital Markets, Insurance and Private Equity we provide integrated advisory, assurance, tax, and transaction services. Through diverse experiences, world-class learning and individually tailored coaching you will experience ongoing professional development. That’s how we develop outstanding leaders who team to deliver on our promises to all of our stakeholders, and in so doing, play a critical role in building a better working world for our people, for our clients and for our communities. Sound interesting? Well, this is just the beginning. Because whenever you join, however long you stay, the exceptional EY experience lasts a lifetime.
+
+We’re looking for a Full-stack Engineer (front-end focussed) at EY GDS. You will work on designing and implementing modern web applications with a focus on front-end development using Angular or React.js with TypeScript. You will collaborate with cross-functional teams to build, deploy, and manage scalable back-end services, APIs, and database integrations that meet business needs and leverage best practices in full-stack development and cloud technologies. This is a fantastic opportunity to be part of a leading firm whilst being instrumental in the growth of a new service offering. We are the only professional services organization who has a separate business dedicated exclusively to the financial and non-financial services marketplace. Join Digital Engineering team and you will work with multi-disciplinary teams from around the world to deliver a global perspective.
+
+EY Risk and Compliance Engineering is a unique, industry-focused business unit that provides a broad range of integrated services that leverage deep industry experience with strong functional capability and product knowledge. The Risk and Compliance Engineering (RCE) practice works with clients to analyse, formulate, design, mobilize and drive digital transformation initiatives. We advise clients on their most pressing digital challenges and opportunities surround business strategy, customer, growth, profit optimization, innovation, technology strategy, and digital transformation. We also have a unique ability to help our clients translate strategy into actionable technical design, and transformation planning/mobilization. Through our unique combination of competencies and solutions, EY’s RCE team helps our clients sustain competitive advantage and profitability by developing strategies to stay ahead of the rapid pace of change and disruption and supporting the execution of complex transformations.
+
+Your Key Responsibilities
+
+Front-End Development: Develop and maintain front-end applications using Angular or React.js with TypeScript.
+API Integration: Collaborate in building and consuming REST APIs and GraphQL services.
+Back-End Development: Contribute to development of back-end technologies using Java, Python, or Node.js and databases (SQL/NoSQL).
+Code Quality: Participate in code reviews, write tests, and ensure maintainable, high-quality code.
+Deployment: Work with CI/CD pipelines and support deployment activities.
+Collaboration: Collaborate with product managers, UX designers, and other engineers to deliver high-quality end-to-end solutions.
+Technology Updates: Stay updated with emerging web technologies and apply best practices in performance and security.
+
+Skills And Attributes For Success
+
+Required Skills:
+
+Hands-on experience with Angular or React.js and TypeScript.
+Solid understanding of HTML5, CSS3, and ES8+.
+Knowledge of state management, component-driven architecture, and responsive design.
+Exposure to Java, Python, or Node.js for back-end development.
+Experience with REST APIs and GraphQL.
+Development experience with SQL and NoSQL databases.
+Familiarity with CI/CD pipelines and related tools (Azure DevOps, GitHub Actions, Jenkins, GitLab CI, etc.).
+Basic exposure to Docker and containerized deployments is a plus.
+
+Preferred Qualifications:
+
+Agile Methodologies: Familiarity with Agile development practices and methodologies.
+Problem-Solving: Strong analytical skills with the ability to troubleshoot and resolve complex issues.
+
+Education:
+
+Degree: Bachelor’s degree in Computer Science, Information Technology, or a related field, or equivalent practical experience
+
+What We Offer
+
+EY Global Delivery Services (GDS) is a dynamic and truly global delivery network. We work across six locations – Argentina, China, India, the Philippines, Poland and the UK – and with teams from all EY service lines, geographies and sectors, playing a vital role in the delivery of the EY growth strategy. From accountants to coders to advisory consultants, we offer a wide variety of fulfilling career opportunities that span all business disciplines. In GDS, you will collaborate with EY teams on exciting projects and work with well-known brands from across the globe. We’ll introduce you to an ever-expanding ecosystem of people, learning, skills and insights that will stay with you throughout your career.
+
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next. 
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+EY | Building a better working world 
+
+EY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets.
+
+Enabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow.
+
+EY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multi-disciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories

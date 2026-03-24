@@ -1,0 +1,11 @@
+About the job
+The candidate has to work in US shift i.e., 8:00 AM EST to 5:00 PM EST (During Day light saving period, 6:30 PM IST to 3:30 AM IST).
+
+Preferred Skills
+
+ Basic understanding of containerization technologies like Docker and Kubernetes.
+ Familiarity with CI/CD tools such as Jfrog, SonarQube, Azure DevOps, Octopus, GitHub.
+ Knowledge of scripting languages such as Python, Bash, or PowerShell.
+ Basic understanding of version control systems like Git, GitHub, Bitbucket.
+ Ability to learn new technologies and adapt to changing environments.
+

@@ -1,0 +1,40 @@
+Job Description
+
+Job Summary:
+
+We are hiring a Power BI Expert with 2-5 years of experience in developing interactive dashboards and data visualization solutions. The ideal candidate should have strong expertise in Power BI, DAX, SQL, and data modeling to support business intelligence and reporting needs. The role involves creating visually appealing and insightful reports to drive data-driven decision-making.
+
+Key Responsibilities
+
+ Develop, design, and optimize Power BI dashboards, reports, and datasets.
+ Create complex DAX calculations, measures, and KPIs to support data analysis.
+ Connect and integrate Power BI with SQL Server, SharePoint, and other data sources.
+ Implement Row-Level Security (RLS) and data governance best practices.
+ Optimize report performance and troubleshoot data-related issues.
+ Collaborate with business users to understand reporting needs and provide data-driven insights.
+ Ensure data accuracy, consistency, and security across Power BI reports.
+
+Job Requirement
+
+Required Skills & Qualifications
+
+ 2-5 years of experience in Power BI development and data visualization.
+ Strong knowledge of DAX, SQL, Power Query (M Language), and data modeling.
+ Experience in ETL, data integration, and data warehouse concepts.
+ Proficiency in designing visually engaging dashboards with a user-friendly experience.
+ Familiarity with Azure Synapse, Power Automate, and Microsoft 365 (preferred).
+ Strong analytical thinking and problem-solving skills.
+ Excellent communication and stakeholder management abilities.
+
+Preferred Qualifications (Good To Have)
+
+ Microsoft Certified: Power BI Data Analyst Associate or equivalent certification.
+ Experience in AI-powered analytics and automation in Power BI.
+ Knowledge of Python/R for advanced data analysis.
+
+Why Join Us?
+
+ Opportunity to work on impactful data-driven projects.
+ A dynamic and collaborative work environment.
+ Continuous learning and professional growth opportunities.
+ Competitive salary, perks, and benefits.

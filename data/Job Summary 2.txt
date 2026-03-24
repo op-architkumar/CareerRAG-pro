@@ -1,0 +1,67 @@
+Job Summary
+
+We are looking for a Core Web Designer & WordPress Developer who can design, develop, and maintain the college’s website and online platforms. The ideal candidate should have expertise in WordPress, UI/UX design, HTML, CSS, JavaScript, and website performance optimization. The role will focus on building responsive, SEO-friendly, and visually appealing web pages while ensuring smooth user experience and functionality.
+
+Key Responsibilities
+
+ Website Development & Maintenance
+Design, develop, and maintain RCM’s official website and associated microsites.
+Ensure mobile-friendly, responsive, and fast-loading web pages.
+Optimize website structure and navigation for better user experience (UX).
+Regularly update content, images, banners, and event pages.
+Integrate third-party tools like CRM, payment gateways, and LMS.
+ WordPress Development & Customization
+Install, configure, and customize WordPress themes & plugins.
+Develop custom WordPress themes, widgets, and shortcodes as per the institute’s branding.
+Troubleshoot and resolve WordPress-related issues (performance, security, updates, etc.).
+Implement best practices for WordPress security & backup strategies.
+ HTML, CSS, JavaScript
+Write clean, well-structured HTML5, CSS3, JavaScript (jQuery).
+Customize and develop interactive elements, forms, and animations.
+Optimize website loading speed, SEO, and Core Web Vitals performance.
+Fix cross-browser compatibility issues and conduct debugging.
+ Website Performance Optimization
+Optimize images, scripts, and database for faster page load speeds.
+Monitor Google Page Speed Insights, Lighthouse, and GT metrix scores and make necessary improvements.
+Ensure website is ADA/WCAG compliant for accessibility.
+ Website Security & Data Protection
+Implement SSL certificates, security plugins, and firewall protection.
+Regularly update and maintain WordPress core, themes, and plugins.
+Protect against hacks, malware, and DDoS attacks.
+Ensure regular data backup strategies.
+ API Integration & Third-Party Tools
+Integrate CRM (HubSpot, Zoho), Payment Gateway (Razor pay, PayPal), and LMS.
+Work with APIs for lead management, admissions, and online inquiry forms.
+Ensure smooth connection with Google Analytics, Facebook Pixel, and Tag Manager.
+ Content Management & Collaboration
+Work with digital marketing and admissions teams to update website content.
+Ensure smooth content upload and integration for blog articles, event updates, and press releases.
+Optimize landing pages for higher conversions and lead generation.
+
+Key Skills & Requirements
+
+✅ Education: bachelor's or master's degree in computer science, IT, Web Development, Multimedia, or a related field.
+
+✅ Experience: Minimum 2 years of experience in web design and development, preferably in the education sector.
+
+✅ Technical Skills
+
+Web Technologies: HTML5, CSS3, JavaScript, jQuery
+CMS: WordPress (Themes, Plugins, Custom Post Types)
+SEO Optimization: Google Search Console, Page Speed Insights, GTmetrix
+Website Performance: Caching, Image Optimization, CDN, Lazy Loading
+Security & Hosting: cPanel, Cloudflare, SSL, Backups.
+API Integration: REST APIs, Google Maps, CRM, Payment Gateway
+
+✅ Soft Skills
+
+Strong problem-solving and analytical skills.
+Creative mindset with attention to design aesthetics and usability.
+Ability to work independently and collaborate with teams.
+Effective time management and multitasking capabilities.
+
+About The Role – Web Developer At RCM
+
+The Regional College of Management, Bhubaneswar (RCM) is a premier management institution established in 1982. Recognized by the University Grants Commission (UGC) and affiliated with AICTE, RCM has been a leader in management education in Eastern India. The institution is globally acknowledged for its academic excellence and is government recognized under Section 2(f) and 12(b) of the UGC Act.
+
+As part of our digital expansion, we are seeking a skilled Core Web Designer & WordPress Developer to enhance our website, online portals, and digital assets to provide an engaging experience for students, faculty, and stakeholders.

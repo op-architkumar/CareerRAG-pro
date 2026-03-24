@@ -1,0 +1,92 @@
+About the job
+AVEVA is creating software trusted by over 90% of leading industrial companies.
+
+Job Title: Secure Development Lifecycle (SDL) / Cybersecurity Architect
+
+Location: Hyderabad, India
+
+Employment Type: Full-time, hybrid work arrangement
+
+The job 
+
+We are seeking a senior cybersecurity leader with deep expertise in Secure Development Lifecycle (SDLC), enterprise security architecture, and strong knowledge of the Cyber Resilience Act (CRA).
+
+This role will drive secure-by-design engineering practices, ensure regulatory compliance for products with digital elements, and embed cybersecurity governance across the product lifecycle.
+
+The candidate will act as a strategic advisor to Engineering, Product, Legal, and Compliance teams while defining security architecture standards aligned with global cybersecurity regulations.
+
+Key Responsibilities
+
+Define and institutionalize Secure SDLC framework across AVEVA solutions
+Embed security controls into design, development, testing, deployment, and maintenance.
+Establish and perform threat modeling, secure coding standards, and code review practices.
+Own security architecture for applications, APIs, cloud workloads, and supporting platforms.
+Establish & perform secure coding standards and developer enablement (secure coding playbooks, training, guardrails).
+Ensure vulnerability management and patch governance across product lifecycle.
+Develop reference architectures focused on cyber security for cloud, on-prem, IoT, and hybrid environments.
+Conduct architecture risk assessments and security design reviews.
+Lead Zero Trust, identity, encryption, and data protection strategies.
+Define security patterns aligned to industry standards (ISO 27001, NIST, IEC 62443, etc.).
+Conduct product risk assessments and cybersecurity impact analysis.
+Has knowledge of EU Cyber Resilience Act
+Ensure “secure-by-default” configuration in products with digital elements.
+Prepare for regulatory audits and compliance certifications.
+Conduct product risk assessments and cybersecurity impact analysis.
+Guide developers & tester for secure testing.
+Support creation of compliance artifacts (architecture documentation, risk assessments, security requirements, SBOM processes, vulnerability handling process
+
+Desired Skills
+
+10-15 years in cybersecurity with strong experience in security architecture and application/product security.
+Proven experience building and running a Secure SDLC program in agile/DevOps environments.
+Strong expertise in Secure SDLC frameworks.
+Strong Hands-on knowledge of:
+Threat modeling (STRIDE, attack trees)
+security design reviews, secure coding practices
+SAST, DAST, SCA tools
+SBOM (CycloneDX, SPDX)
+Cloud security (AWS, Azure, GCP)
+OWASP Top 10, API security, authentication/authorization (OAuth2/OIDC, SSO, RBAC/ABAC)
+Container & Kubernetes security
+Vulnerability management lifecycle and tooling integration
+Working knowledge of EU Cyber Resilience Act (CRA) concepts and practical implementation needs:
+Knowledge of global cybersecurity regulations (NIS2, GDPR, etc.).
+Experience preparing technical documentation for regulatory audits.
+Strong communication: translate security risk into engineering actions and business impact.
+Ability to drive adoption without “blocking” delivery—pragmatic and risk-based.
+Leadership, mentoring, and cross-functional influence.
+Services at AVEVA
+
+Our dynamic global team of 700+ engineers, developers, consultants, solution architects and project managers are at the forefront of delivering AVEVA cutting-edge solutions to customers. The work is complex and technical, but immensely rewarding: we empower customers to harness the full transformative potential of AVEVA’s solutions. If you’re analytical, pragmatic, and driven to make a tangible impact on the sustainability of the industrial sector, our team is the perfect place for you.
+
+Find out more: https://www.aveva.com/en/about/careers/
+
+India Benefits include:
+
+Gratuity, Medical and accidental insurance, very attractive leave entitlement, emergency leave days, childcare support, maternity, paternity and adoption leaves, education assistance program, home office set up support (for hybrid roles), well-being support
+
+It’s possible we’re hiring for this position in multiple countries, in which case the above benefits apply to the primary location. Specific benefits vary by country, but our packages are similarly comprehensive.
+
+Find out more: aveva.com/en/about/careers/benefits/
+
+Hybrid working
+
+By default, employees are expected to be in their local AVEVA office three days a week, but some positions are fully office-based. Roles supporting particular customers or markets are sometimes remote.
+
+Hiring process
+
+Interested? Great! Get started by submitting your cover letter and CV through our application portal. AVEVA is committed to recruiting and retaining people with disabilities. Please let us know in advance if you need reasonable support during your application process.
+
+Find out more: aveva.com/en/about/careers/hiring-process
+
+About AVEVA
+
+AVEVA is a global leader in industrial software with more than 6,500 employees in over 40 countries. Our cutting-edge solutions are used by thousands of enterprises to deliver the essentials of life – such as energy, infrastructure, chemicals, and minerals – safely, efficiently, and more sustainably.
+
+We are committed to embedding sustainability and inclusion into our operations, our culture, and our core business strategy. Learn more about how we are progressing against our ambitious 2030 targets: sustainability-report.aveva.com/
+
+Find out more: aveva.com/en/about/careers/
+
+AVEVA requires all successful applicants to undergo and pass a drug screening and comprehensive background check before they start employment. Background checks will be conducted in accordance with local laws and may, subject to those laws, include proof of educational attainment, employment history verification, proof of work authorization, criminal records, identity verification, credit check. Certain positions dealing with sensitive and/or third-party personal data may involve additional background check criteria.
+
+AVEVA is an Equal Opportunity Employer. We are committed to being an exemplary employer with an inclusive culture, developing a workplace environment where all our employees are treated with dignity and respect. We value diversity and the expertise that people from different backgrounds bring to our business. AVEVA provides reasonable accommodation to applicants with disabilities where appropriate. If you need reasonable accommodation for any part of the application and hiring process, please notify your recruiter. Determinations on requests for reasonable accommodation will be made on a case-by-case basis.

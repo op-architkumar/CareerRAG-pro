@@ -1,0 +1,42 @@
+Project Role : Web Developer
+
+Project Role Description : Design, build and test web-based applications for various site components and edit site content. Document technical designs and specifications. Research and incorporate updated content for websites.
+
+Must have skills : Tableau
+
+Good to have skills : NA
+
+Minimum 3 Year(s) Of Experience Is Required
+
+Educational Qualification : 15 years full time education
+
+Summary:
+
+As a Web Developer, you will engage in the design, construction, and testing of web-based applications tailored for various site components. Your day will involve editing site content, documenting technical designs and specifications, and researching to incorporate updated content for websites. You will collaborate with team members to ensure that the applications meet user needs and adhere to best practices in web development.
+
+Roles & Responsibilities:
+
+ Expected to perform independently and become an SME.
+ Required active participation/contribution in team discussions.
+ Contribute in providing solutions to work related problems.
+ Assist in the development of user-friendly web interfaces that enhance user experience.
+ Collaborate with cross-functional teams to gather requirements and implement features.
+
+
+Professional & Technical Skills:
+
+ Must To Have Skills: Proficiency in Tableau.
+ Strong understanding of web development frameworks and technologies.
+ Experience with HTML, CSS, and JavaScript for front-end development.
+ Familiarity with responsive design principles to ensure compatibility across devices.
+ Knowledge of version control systems such as Git.
+
+
+Additional Information:
+
+ The candidate should have minimum 3 years of experience in Tableau.
+ This position is based at our Hyderabad office.
+ A 15 years full time education is required.
+
+
+, 15 years full time education

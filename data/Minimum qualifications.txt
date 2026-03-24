@@ -1,0 +1,29 @@
+Minimum qualifications:
+
+Bachelor's degree in Computer Science, Electrical Engineering, Math, a related quantitative field, or equivalent practical experience in software development.
+2 years of experience in full-stack software development.
+Experience with front-end languages (e.g., JavaScript or TypeScript).
+Experience with backend languages (e.g., Java, Python, or C++).
+Experience working with database technologies (e.g., SQL, NoSQL).
+
+Preferred qualifications:
+
+2 years of experience designing and optimizing databases.
+Experience with unit testing, agile project development, and bug and change management systems.
+Ability to be flexible/adaptable in exercising judgment in a dynamic environment and to prioritize and manage tasks efficiently.
+Ability to provide effective technical solutions to business challenges.
+
+About the jobIn gTech Users and Products (gUP), our mission is to advocate for Google’s users by creating helpful and trusted experiences across the product ecosystem. We achieve this by meeting partners and consumers where they are with support and help, representing their needs with our product partners and proposing fixes and features that elevate their engagement with Google's diverse product ecosystem. Additionally we provide a range of product services that ensure our products are optimized for every user, no matter where they are in the world (e.g., localization, digitization, partner integration, and more).Google creates products and services that make the world a better place, and gTech’s role is to help bring them to life. Our teams of trusted advisors support customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers’ complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products.
+
+To learn more about gTech, check out our video .
+
+Responsibilities
+
+Design, build, deploy, and improve elegant, scalable, and modern full-stack web applications using standard and Google-specific software development tools. This may include ensuring reliable backends, building pipelines to aggregate data from multiple sources, implementing responsive and UX-rich front-ends, or enhancing performance of existing tools and services.
+Analyze problems and develop solutions, while identifying dependencies and resolving issues to drive implementation.
+Make technical contributions, including writing and reviewing design documents, tests, and code (e.g., JavaScript, Python, TypeScript, SQL).
+Provide subject-matter expertise and utilize comprehensive knowledge of Google's related technologies, principles, practices, and coding standards.
+Collaborate with cross-functional users and stakeholders to identify pain points and devise technical solutions.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .

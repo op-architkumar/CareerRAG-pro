@@ -1,0 +1,13 @@
+Project Role : Data Engineer
+
+Project Role Description : Design, develop and maintain data solutions for data generation, collection, and processing. Create data pipelines, ensure data quality, and implement ETL (extract, transform and load) processes to migrate and deploy data across systems.
+
+Must have skills : PySpark
+
+Good to have skills : NA
+
+Minimum 3 Year(s) Of Experience Is Required
+
+Educational Qualification : 15 years full time education
+
+Summary: As a Data Engineer, you will design, develop, and maintain data solutions that facilitate data generation, collection, and processing. Your typical day will involve creating data pipelines, ensuring data quality, and implementing ETL processes to migrate and deploy data across various systems, contributing to the overall efficiency and effectiveness of data management within the organization. Roles & Responsibilities: - Expected to perform independently and become an SME. - Required active participation/contribution in team discussions. - Contribute in providing solutions to work related problems. - Collaborate with cross-functional teams to understand data requirements and deliver effective solutions. - Monitor and optimize data pipelines for performance and reliability. Professional & Technical Skills: - Must To Have Skills: Proficiency in PySpark. - Strong understanding of data modeling and database design principles. - Experience with ETL tools and processes. - Familiarity with cloud platforms such as AWS or Azure. - Knowledge of data warehousing concepts and technologies. Additional Information: - The candidate should have minimum 3 years of experience in PySpark. - This position is based at our Indore office. - A 15 years full time education is required., 15 years full time education

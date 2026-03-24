@@ -1,0 +1,19 @@
+About the job
+Company Details
+Channel Factory is a global advertising technology company focused on enabling brands and agencies to grow their video advertising impact across YouTube and social platforms. The company provides solutions that analyze video content at scale using advanced technology to ensure ads are placed in suitable, relevant, and performance-oriented environments.
+Channel Factory’s platform emphasizes contextual alignment, allowing advertisers to connect their messages with the right content and audiences. By combining AI-powered content analysis, media optimization, and suitability controls, the company helps advertisers improve campaign efficiency, protect brand values, and drive stronger outcomes from video advertising.
+The company supports both self-service and managed advertising approaches, enabling advertisers to either run campaigns independently or leverage Channel Factory’s expertise for planning, execution, and optimization. Its solutions are designed to deliver measurable results while maintaining responsible advertising standards across digital video ecosystems.
+Job Roles & Responsibilities
+- Design, build, and maintain scalable backend components using AWS technologies.
+- Develop API architecture to support frontend and mobile client integrations.
+- Troubleshoot server-side issues, ensuring efficient performance and reliability.
+- Collaborate on architectural decisions impacting AWS deployment setups.
+- Write clean, reusable code optimized for maximum speed and scalability.
+- Conduct code reviews to ensure quality and adherence to coding standards.
+- Maintain and improve existing AWS infrastructure for workload efficiency.
+- Implement security and data protection measures using AWS tools and best practices.
+Ideal candidate profile
+- Thrive in fast-paced, AWS-focused environments without hesitation.
+- Communicate directly, respecting teammates’ expertise and insight.
+- Quickly adapt to change, leveraging immediate availability.
+- Embrace transparency and clarity in every AWS-driven project.

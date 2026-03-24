@@ -1,0 +1,57 @@
+About the job
+This job is sourced from a job board. Learn More
+Description
+
+We are looking for a skilled Frontend Developer to build responsive, user-friendly, and high-performance web interfaces.
+
+The ideal candidate will collaborate closely with designers, backend developers, and product teams to translate UI/UX designs into clean, scalable, and maintainable frontend code.
+
+Key Responsibilities
+
+Frontend Development :
+
+ Develop and maintain web applications using modern frontend technologies.
+ Build reusable UI components and front-end libraries.
+ Translate UI/UX designs and wireframes into high-quality code.
+ Ensure applications are responsive, accessible, and cross-browser compatible.
+ Optimize applications for maximum speed and scalability.
+
+Integration & Testing
+
+ Integrate frontend applications with RESTful / GraphQL APIs.
+ Perform unit and integration testing of frontend components.
+ Debug and resolve UI-related issues.
+ Collaborate with backend teams to ensure seamless integration.
+
+Collaboration & Best Practices
+
+ Participate in code reviews and follow coding standards.
+ Work in Agile/Scrum environments.
+ Maintain technical documentation.
+ Continuously evaluate and improve frontend architecture and performance.
+
+Required Skills & Qualifications
+
+Technical Skills :
+
+ Strong proficiency in HTML5, CSS3, JavaScript (ES6+).
+ Hands-on experience with ReactJS / Angular / Vue.js.
+ Experience with responsive design frameworks (Bootstrap, Tailwind).
+ Familiarity with state management (Redux, NgRx, Context API).
+ Understanding of REST APIs and frontend-backend integration.
+ Experience with Git and version control systems.
+
+Soft Skills
+
+ Strong problem-solving and analytical skills.
+ Excellent communication and teamwork abilities.
+ Attention to detail and strong ownership mindset.
+ Willingness to learn and adapt to new technologies.
+
+Preferred Qualifications
+
+ Experience with TypeScript.
+ Knowledge of UI performance optimization and accessibility standards (WCAG).
+ Exposure to CI/CD pipelines.
+ Experience working in product-based or enterprise applications.
+ Familiarity with Figma / Adobe XD designs

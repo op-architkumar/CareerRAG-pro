@@ -1,0 +1,39 @@
+About the job
+Required Skill Set -
+
+ Core Java language development
+ J2EE development including application servers like Tomcat / Weblogic and corresponding web server, IDEs like Eclipse, server-side application development
+ Experience in Design Pattern and microservices
+ Development frameworks like Spring and ORM concepts with specific work on Hibernate or iBatis
+ Database programming using SQL on Oracle 9i / Oracle 10g
+ XML & Web Services
+ Worked on development of REST based web services
+ Must have knowledge of Jsp, Servlet and experience in UI development.
+ Experience of reactJs, Cloud technologies will be preferred·
+ Build tools like ANT / MAVEN and Experience with source control tools like GIT
+ Systems Analysis - Ability to read and comprehend business and functional requirements to develop detailed design documents
+ UML for design documentation like class and sequence diagrams
+ Implementing code quality tools like SONAR, Checkstyle, PMD etc
+ Unit Testing Framework
+
+Experience with any of the following skills will be an added advantage:
+
+ Experience of NoSql DB and AWS is good to have.
+ Artificial Intelligence / Machine Learning Development experience including Python Language development
+ Prior exposure to Agile development lifecycle will be a big advantage
+ Java & Cloud Certification will be an advantage
+ Mule ESB is preferable
+ Experience on Linux environment
+ Experience in BDD development approach.
+ Degree holder in Computer Science or related discipline
+
+Professional Skills
+
+ High level of personal commitment to each task, a can do attitude and a drive to deliver.
+ Curious to learn new technologies and love to optimize
+ Ability to pitch communication at different audiences appropriately, from technical colleagues to managers in the business.
+ High level of responsibility and Ownership from inception through to implementation.
+ The candidate should have a proactive approach to problem solving.
+ Good analysis skills in order to aid in trouble shooting and problem solving
+ Good testing principles as well as good defect management skills
+ Good communication and people skills

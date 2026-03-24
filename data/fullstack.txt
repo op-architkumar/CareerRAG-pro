@@ -1,0 +1,99 @@
+About the job
+Experience: 2.00 + years
+
+Salary: Confidential (based on experience)
+
+Expected Notice Period: 15 Days
+
+Shift: (GMT+05:30) Asia/Kolkata (IST)
+
+Opportunity Type: Office (Hyderabad)
+
+Placement Type: Full Time Permanent position(Payroll and Compliance to be managed by: Regology)
+
+(*Note: This is a requirement for one of Uplers' client - Regology)
+
+What do you need for this opportunity?
+
+Must have skills required:
+
+HTML / CSS, Node Js, React Js, Mongo, Next Js
+
+Regology is Looking for: 
+
+Regology is the leading global AI-powered regulatory intelligence platform. We help compliance, legal, and operations teams stay on top of complex regulations across U.S. federal, all 50 states, and international jurisdictions. At the center of our platform is the Smart Law Library™—a curated, continuously updated collection of laws and regulations tailored to each organization. Regology also brings together three AI agents: the Regulatory Change Agent, which monitors and alerts on new developments; the Compliance Agent, which connects changes to policies and controls; and the Regulatory Research Agent, which delivers plain-language insights and comparisons across jurisdictions. With Regology, organizations can anticipate change and respond with confidence in a fast-moving regulatory world
+
+Position Overview
+
+We are seeking a passionate and skilled Frontend/Full Stack Developer
+
+to join our dynamic and fast-paced start-up environment. The ideal
+
+candidate will have hands-on experience with modern web development
+
+technologies and a willingness to take on challenging projects. If you''re a
+
+self-starter who thrives on solving complex problems and building
+
+impactful applications, we want to hear from you!
+
+Key Responsibilities:
+
+ Design, develop, and maintain scalable and efficient web
+
+applications using React.js and Next.js.  Implement responsive UI/UX designs with HTML, CSS, and JavaScript.  Build and maintain backend services and APIs
+
+using Node.js, Express, and MongoDB.  Collaborate with cross-functional teams to deliver end-to-end
+
+solutions.  Optimize applications for performance and scalability.  Debug and troubleshoot issues to ensure smooth user
+
+experiences.  Stay updated with emerging trends and technologies in web
+
+development.
+
+Desired Skills and Experience:
+
+ Proficiency in HTML, CSS, JavaScript, Unit testing (jest &
+
+react-testing-library), React.js, and Next.js.
+
+ Strong experience with backend development using Node.js, Express, and MongoDB.
+
+ Familiarity with version control systems like Git.
+
+ Ability to write clean, maintainable, and well-documented code.
+
+ Excellent problem-solving skills and attention to detail.  Added Advantage: Experience with ElasticSearchand Cube.js.
+
+What We Offer:
+
+ A challenging and rewarding role in a growing start-up.
+
+ Opportunities to work on cutting-edge technologies.  A collaborative and supportive work environment.  Career growth opportunities and the chance to make a significant
+
+impact.
+
+Location: Hyderabad
+
+Employment Type: Full-time
+
+If you are ready to embark on an exciting journey and make a difference
+
+in a start-up environment, we’d love to hear from you! Apply now and be
+
+a part of our innovative team.
+
+How to apply for this opportunity?
+
+Step 1: Click On Apply! And Register or Login on our portal.
+Step 2: Complete the Screening Form & Upload updated Resume
+Step 3: Increase your chances to get shortlisted & meet the client for the Interview!
+
+
+About Uplers:
+
+Our goal is to make hiring reliable, simple, and fast. Our role will be to help all our talents find and apply for relevant contractual onsite opportunities and progress in their career. We will support any grievances or challenges you may face during the engagement.
+
+(Note: There are many more opportunities apart from this on the portal. Depending on the assessments you clear, you can apply for them as well).
+
+So, if you are ready for a new challenge, a great work environment, and an opportunity to take your career to the next level, don't hesitate to apply today. We are waiting for you!

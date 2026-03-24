@@ -1,0 +1,52 @@
+About the job
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+OT Security Senior
+
+Key Responsibilities
+
+Design, implement, and manage security controls for OT/ICS in industrial settings.
+Secure industrial networks, including SCADA, DCS, PLCs, RTUs, and IIoT systems.
+Implement network segmentation and zoning based on ISA/IEC 62443 and the Purdue Model.
+Deploy and manage OT firewalls, IDS/IPS, and network monitoring solutions.
+Monitor OT environments for cyber threats, anomalies, and unauthorized activities.
+Conduct OT risk assessments, vulnerability analyses, and remediation planning.
+Support secure remote access solutions for vendors and engineers.
+Collaborate with IT, engineering, and operations teams to align OT security with business continuity.
+Assist in incident response and forensic analysis for OT security incidents.
+Manage asset discovery, inventory, and baseline configurations in OT environments.
+Ensure patch management and change control processes are suitable for OT systems.
+Maintain OT security documentation, standards, and procedures.
+Support regulatory compliance and audits (IEC 62443, NERC CIP, ISO 27001).
+Participate in security awareness and training for OT stakeholders.
+Stay updated on the OT threat landscape, vulnerabilities, and best practices.
+
+Preferred Requirements
+
+Over 3 years of hands-on experience in OT/ICS Security or Industrial Network Security.
+Strong understanding of SCADA, DCS, PLCs, RTUs, and industrial protocols.
+Experience with industrial protocols such as Modbus, DNP3, OPC, Profinet, and EtherNet/IP.
+Hands-on experience with OT security tools (e.g., Nozomi, Claroty, Dragos, Tenable.ot).
+Strong knowledge of networking fundamentals (TCP/IP, routing, switching, firewalls).
+Experience with network segmentation, DMZ design, and secure architecture for OT.
+Knowledge of industrial firewalls (e.g., Fortinet, Palo Alto, Cisco, Hirschmann).
+Understanding of OT incident response procedures and safety considerations.
+Exposure to secure remote access solutions for OT environments.
+Awareness of OT compliance and regulatory standards.
+Ability to work in high-availability, safety-critical environments.
+Strong analytical, troubleshooting, and documentation skills.
+
+Relevant Certifications Preferred
+
+GICSP (GIAC)
+IEC 62443 Cybersecurity Expert
+CISSP / CISM (nice to have)
+Good communication skills for collaboration with engineering and operations teams.
+
+EY | Building a better working world 
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.

@@ -1,0 +1,36 @@
+Project Role : Application Developer
+
+Project Role Description : Design, build and configure applications to meet business process and application requirements.
+
+Must have skills : Java Full Stack Development
+
+Good to have skills : Microsoft SQL Server, Python (Programming Language), C++ Programming Language
+
+Minimum 3 Year(s) Of Experience Is Required
+
+Educational Qualification : 15 years full time education
+
+Summary: As an Application Developer, you will engage in the design, construction, and configuration of applications tailored to fulfill specific business processes and application requirements. Your typical day will involve collaborating with team members to understand project needs, developing innovative solutions, and ensuring that applications are optimized for performance and usability. You will also participate in testing and debugging processes to deliver high-quality applications that meet user expectations and business goals. Key Responsibilities
+
+ Reproduce and triage complex bugs across software, hardware, developer, and GenAI systems.
+ Perform detailed log and stack trace analysis to identify root causes.
+ Execute structured queries (SQL) and use dashboards to identify trends and anomalies.
+ Label issues accurately using pre-defined schemas, ensuring clarity for engineering handoff.
+ Maintain triage documentation, SOPs, and playbooks.
+ Collaborate with engineering to escalate actionable reports backed by technical evidence. Required Technical Expertise
+ Proficiency in log analysis (crash logs, runtime outputs, emulator/simulator environments).
+ Ability to query and analyze structured/unstructured data (SQL, JSON, Regex).
+ Experience with debugging tools (Logcat, Xcode Console, DevTools, Postman, Firebase).
+ Familiarity with APIs, client-server architectures, and backend debugging.
+ Understanding of GenAI concepts: LLM behavior, prompt engineering, and failure modes.
+ Hardware triage skills (wearables, XR, device setup, battery/sensor behavior, ADB commands). Preferred Technical Expertise
+ Scripting/automation using Python or shell commands.
+ Knowledge of Unity (C#), Unreal Engine (C++), or Android development.
+ Familiarity with experimentation/A-B testing and impact on product reliability.
+ Dashboard creation for monitoring service health and metrics interpretation. Soft Skills
+ Strong analytical thinking and high attention to detail.
+ Effective written documentation and clear escalation practices.
+ Collaboration with cross-functional teams in high-paced environments., 15 years full time education
+
+Job search faster with Premium
+Access company insights like strategic priorities, headcount trends, and more

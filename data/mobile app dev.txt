@@ -1,0 +1,35 @@
+About the job
+About Even
+
+At Even, we think there is a better approach to healthcare. One that allows everyone to be fully covered for all their healthcare needs, including the things that help us prevent issues, not just treat them. By taking on the clinical care ourselves (with our doctors, our clinics, our hospital, and our partners) we can make this cover cheaper than traditional insurance products. Yes, that is both better and cheaper. We think it's possible.
+
+We work with insurers, labs, hospitals and have our own doctors and medical facilities to provide our services and do as much as possible ourselves. That allows us to fully control the experience, the outcomes, and the costs.
+
+That philosophy is also reflected in our tech team. With under 20 people we have built up a lot of systems from scratch over the past 2 years. Everything from an in-house EMR platform, to a consumer app full of features, countless integrations and internal platforms. We have even built our own UPI scanner by integrating directly with banks. There is so much the tech team does at Even, and there is still so much more to build!
+
+We are looking for a Mobile App Developer who will take ownership of the development and enhancement of our mobile applications. While our current stack leans towards Flutter, we are open to strong candidates from Android (Kotlin/Java), iOS (Swift), or React Native backgrounds, especially those with a demonstrated ability to pick up new technologies quickly. This is a great opportunity if you're passionate about healthcare, love working on end-to-end app experiences, and are eager to learn and grow with a high-impact team.
+
+Responsibilities
+
+Build and maintain user-facing mobile apps with great performance and usability.
+Collaborate with design, product, and backend teams to deliver robust features.
+Write clean, scalable, and maintainable code.
+Optimize for performance, scalability, and responsiveness.
+Contribute to architectural decisions and tech stack evolution.
+
+Requirements
+
+3-8 years of experience in mobile development.
+Proficiency in Flutter is a strong plus.
+Experience in Android (Kotlin/Java), iOS (Swift), or React Native is also welcome.
+Strong understanding of mobile app architecture, design patterns, and best practices.
+Solid problem-solving skills and a growth mindset.
+Strong communication skills and a collaborative attitude.
+
+Bonus Points For
+
+Exposure to multiple tech stacks(e. g., full-stack background, experience switching platforms).
+A track record of learning new technologies and applying them effectively.
+Contributions to open-source projects or personal apps in app stores.
+
+Skills: android,mobile development,flutter,ios

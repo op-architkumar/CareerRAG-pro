@@ -1,0 +1,34 @@
+Job Title: Cyber Threat Intelligence Analyst
+
+Job Summary
+The Cyber Threat Intelligence Analyst will support the identification, analysis, and dissemination of cyber threat intelligence to proactively reduce organizational risk. This role focuses on monitoring emerging threats, analyzing indicators of compromise (IOCs), supporting incident response, and producing actionable intelligence to enhance security operations.
+
+Key Responsibilities
+Monitor and analyze cyber threats using open-source, commercial, and internal intelligence sources
+
+Identify, validate, and contextualize IOCs, TTPs, and threat actor activity
+
+Support Incident Response and SOC teams with timely and actionable threat intelligence
+
+Track threat actors, campaigns, and vulnerabilities relevant to the organization
+
+Contribute to threat intelligence reports, advisories, and briefings
+
+Assist in tuning detections and controls based on threat intelligence findings
+
+Maintain awareness of emerging attack techniques and trends (e.g., MITRE ATT&CK)
+
+Participate in threat hunting and proactive risk identification activities
+
+Document findings clearly and accurately
+
+Required Skills & Qualifications
+2+ years of experience in Cyber Threat Intelligence, SOC, Incident Response, or Security Operations
+
+Strong understanding of:
+
+Common cyber threats (phishing, malware, ransomware, BEC, credential theft)
+
+Attack lifecycle and adversary techniques
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

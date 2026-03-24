@@ -1,0 +1,32 @@
+About the job
+Company Description
+
+AICines INC is the world's first end-to-end AI content creation and monetization platform, revolutionizing entertainment by transforming the creative process from script to screen through multimodal intelligence. The platform integrates AI-driven story and script generation, scene and character creation, smart editing tools, and solutions for hosting and monetization. With a mission to democratize filmmaking, AICines empowers creators, brands, and studios to produce and monetize cinematic content. Focused on AI, FilmTech, and the Creator Economy, AICines is at the forefront of innovation in generative AI for media and entertainment.
+
+
+Role Description
+
+This is a full-time on-site role for an Android Developer, located in Hyderabad. The Android Developer will be responsible for designing, developing, and maintaining Android applications. Daily tasks will include collaborating with cross-functional teams, creating efficient and scalable application components, testing for performance and reliability, and ensuring the optimal functionality of developed solutions. The role also involves troubleshooting, debugging, and staying updated with the latest trends in mobile app development and Android technologies.
+
+
+Qualifications
+
+Expertise in Mobile Application Development and Mobile Applications design.
+An Android Developer with 5 years of experience specializing in Jetpack Compose requires advanced Kotlin, state management (ViewModel, Flow), and architectural proficiency (MVVM/MVI). Key skills include building modular UIs, integrating REST APIs, performance tuning, and implementing Material Design 3, targeting high-performance applications
+Strong skills in Android Design and Android Development.
+Proficiency in Software Development, including debugging and optimization techniques.
+Knowledge of best practices in user experience design and app performance improvements.
+Ability to work collaboratively in cross-functional teams with excellent problem-solving skills.
+Jetpack Compose Proficiency: Advanced UI development using declarative paradigms, custom composables, animations, and efficient recomposition handling.
+Modern Android Architecture: Deep understanding of MVVM, MVI, and Clean Architecture to build maintainable, modular apps.
+Kotlin Expertise: High proficiency in Kotlin, including functional programming concepts and best practices.
+State Management & Coroutines: Extensive experience with Kotlin Flow, LiveData, and Coroutines for asynchronous programming and managing UI state.
+Networking: Expertise in integrating RESTful APIs using Retrofit (which acts as a wrapper) and OkHttp (the underlying HTTP client), including advanced topics like caching and error handling.
+API & Data Integration: Proven experience with REST APIs, JSON parsing, and handling offline-first approaches using Room and DataStore.
+Networking: Expertise in integrating RESTful APIs using Retrofit (which acts as a wrapper) and OkHttp (the underlying HTTP client), including advanced topics like caching and error handling.
+Dependency Injection: Mastery of Hilt or Koin to decouple components.
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+Testing: Writing unit tests, UI tests for Compose (ComposeTestRule) Roboelctric
+Performance Optimization: Ensuring high performance in layouts, reducing app size, and managing memory.
+Tooling: Familiarity with Git, CI/CD pipelines, and Jira/Confluence.
+Understanding of version control systems like Git and familiarity with Agile/Scrum methodologies.

@@ -1,0 +1,15 @@
+Core Java, J2EE,Spring Boot, Microservices, Web Services SOA experience SOAP as well as Restful with JSON formats, with Messaging Kafka, Database integrations (DB2, GOS, PostgreSQL). Good working knowledge on AWS.
+
+Database integrations (DB2, GOS, PostgreSQL).
+
+Hands on AWS services like EKS Cluster; EC2, AWS lambda, cloud monitoring tools like Datadog, Cloud watch.
+
+Working with GIT/Bitbucket, Maven, Gradle, Jenkins tools to build and deploy code deployment to production environments.
+
+Jenkins, Git/ Bitbucket, Sonar, Black Duck, Splunk
+
+
+Desired Skills and Experience
+Datadog, Jenkins, Gradle, Cloudwatch, DB2, AWS EC2, JavaScript, Spring Boot, Apache Kafka, AWS Lambda
+
+Job search faster with Premium

@@ -1,0 +1,25 @@
+Description
+
+ We are seeking a skilled and motivated Backend Engineer to join our dynamic team.
+ The ideal candidate will have a strong background in Python, SQL, and REST APIs, with experience working with Google APIs and Google Cloud Platform (GCP).
+ As a Backend Engineer, you will play a crucial role in developing, maintaining, and optimizing our backend services and systems.
+
+Technical Skills
+
+ Proficiency in Python for backend development.
+ Strong experience with SQL and relational databases.
+ Solid understanding of RESTful API design and development.
+ Hands-on experience with Google APIs and Google Cloud Platform (GCP).
+ Familiarity with version control systems, such as Git.
+
+Experience
+
+ 5+ years of experience in backend development with a focus on Python, SQL, and REST APIs.
+ Demonstrated experience working with Google APIs and GCP services.
+ Proven track record of delivering scalable and reliable backend systems.
+
+Soft Skills
+
+ Excellent problem-solving skills and a proactive attitude.
+ Strong communication and collaboration abilities.
+ Ability to work effectively in a fast-paced, team-oriented environment.

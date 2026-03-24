@@ -1,0 +1,7 @@
+Strong on application development using HTML, CSS, angular programming languages.
+
+Strong on typescript/java script.
+
+Strong on agile methodology.
+
+Should have knowledge on writing unit test cases using jasmine/jest Skills:- HTML/CSS, Javascript, TypeScript, webpack, Jasmine (Javascript Testing Framework), Agile/Scrum, Jest and Angular (2+)

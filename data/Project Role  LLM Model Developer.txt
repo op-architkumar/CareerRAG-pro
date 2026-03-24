@@ -1,0 +1,41 @@
+Project Role : LLM Model Developer
+
+Project Role Description : Fine-tunes Large Language Models with emphasis on instruction fine-tuning and domain adaptation to enhance model relevance and performance in specific contexts.
+
+Must have skills : Large Language Models (LLMs)
+
+Good to have skills : NA
+
+Minimum 7.5 Year(s) Of Experience Is Required
+
+Educational Qualification : 15 years full time education
+
+Summary:
+
+As a LLM Model Developer, you will engage in the intricate process of fine-tuning Large Language Models, focusing on instruction fine-tuning and domain adaptation. Your typical day will involve collaborating with cross-functional teams to enhance model relevance and performance in specific contexts, ensuring that the models meet the diverse needs of various applications. You will analyze model outputs, iterate on training processes, and implement strategies to optimize performance, all while maintaining a keen awareness of the latest advancements in the field of artificial intelligence and machine learning.
+
+Roles & Responsibilities:
+
+ Expected to be an SME.
+ Collaborate and manage the team to perform.
+ Responsible for team decisions.
+ Engage with multiple teams and contribute on key decisions.
+ Provide solutions to problems for their immediate team and across multiple teams.
+ Mentor junior team members to foster their growth and development.
+ Continuously evaluate and implement best practices in model development and fine-tuning.
+
+
+Professional & Technical Skills:
+
+ Must To Have Skills: Proficiency in Large Language Models.
+ Good To Have Skills: Experience with natural language processing frameworks.
+ Strong understanding of machine learning principles and algorithms.
+ Familiarity with data preprocessing techniques specific to language models.
+ Experience in deploying models in production environments.
+
+
+Additional Information:
+
+ The candidate should have minimum 7.5 years of experience in Large Language Models.
+ This position is based in Chennai.
+ A 15 years full time education is required.

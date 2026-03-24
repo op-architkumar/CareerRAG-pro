@@ -1,0 +1,98 @@
+About the job
+Company Description
+
+About CyberArk
+
+CyberArk, a Palo Alto Networks company, is the global leader in identity security, trusted by organizations around the world to secure human and machine identities in the modern enterprise. CyberArk’s AI-powered Identity Security Platform applies intelligent privilege controls to every identity with continuous threat prevention, detection and response across the identity lifecycle. With Identity Security, organizations can reduce operational and security risks by enabling zero trust and least privilege with complete visibility, empowering all users and identities, including workforce, IT, developers and machines, to securely access any resource, located anywhere, from everywhere. Learn more at cyberark.com.
+
+Job Description
+
+Job Description
+
+CyberArk is a security-first approach company and deliver’s the industry’s only modern identity platform
+
+Our comprehensive SaaS solution runs primarily on Amazon AWS and provides a multi-tenant, highly scalable environment, spanning multiple regions, and leveraging a wide range of Amazon’s AWS technologies (Traditional, Container based and Serverless)
+
+The ideal candidate will be flexible, self-motivated, loves making excellent code and takes pride in creating a great user experience. In this position, the candidate will be a key player in designing and developing new features to our primary iOS & Android products.
+
+We are seeking a hands-on programmer who has in-depth knowledge in Mobile development especially in iOS and Android. Passion for excellence as well as a strong product commitment is must. In addition to technical expertise, you must have the acumen to look at a product from both customer and industry competitive perspective.
+
+The person we are looking for will collaborate closely with Product Management and field professionals and understand diverse and changing requirements to turn them into actionable plans. As the Engineering representative in customer-facing situations, you will have a unique opportunity to observe first-hand the deployment and usage of the product by our enterprise customers in a large-scale environment.
+
+Key Responsibilities:
+
+
+Provide technical leadership by communicating, developing and maintaining our iOS and Android solutions.
+To ensure best possible performance, quality and responsiveness of the app.
+Work with other developers and disciplines (including support) to meet product goals.
+Handling the backend development too.
+Experience in troubleshooting, servicing, and explaining mobile device issues related to the product.
+Proven experience resolving escalations from end-user support team, manage vendor support cases, as well as, take ownership of product issues.
+Keep on top of new libraries and technologies like CocoaLumberJack, Firebase Analytics, Kingfisher, UI testing (XCTest/XCUITest), and more.
+Collaborate with Product Management and field professionals to understand and analyse product requirements; as well as participate in product roadmap and feature prioritisation discussions.
+Work closely with Sales and Support to drive product adoption and customer satisfaction by providing timely, pragmatic and effective solutions to customer issues.
+Drive and oversee the development from prototyping, implementation, testing to maintenance.
+Define and evangelize best practices, with focus on code robustness, code security, performance and scalability.
+Lead brainstorming and design sessions. Provide ongoing technical direction to teammates in multiple sites.
+Diagnose and fix product issues found internally or in the field.
+Interface with Support to handle customer escalation issues.
+Willing to work on multiple technologies
+Other duties assigned as needed
+
+
+#IL-SP01
+
+Qualifications
+
+Qualifications:
+
+
+Bachelor’s degree in Computer Science or equivalent work experience
+3+ years of experience developing on iOS platform.
+Strong background on debugging and maintaining the primary OOP languages (C#\Java\C++\Objective-C\Swift).
+Strong knowledge on OOP concepts.
+Excellent understanding of Swift, Objective-C and programming concepts such as multithreading, MVC, MVVM, VIPER, MVP, UI patterns and unit testing.
+Excellent understanding of iOS frameworks.
+Excellent understanding of Android OS and Eco system.
+Excellent understanding of core language features relevant to iOS and Android.
+Knowledge on Kotlin is a plus.
+Knowledge on distributing the builds to AppStore and Play stores.
+Knowledge on distributing the sources to public use like cocoa pods, package managers, maven etc.
+Excellent understanding of material design.
+Experience in at least one of the cloud platforms (Azure\AWS) PAAS and\or IAAS.
+Full product cycle experience
+Demonstrating ability to be flexible and productive in a fast-paced environment with geographically-distributed teams
+Demonstrating ability to work effectively as an individual and within a group
+Excellent analytical and troubleshooting skills
+Self-starter and ability to pick up new technologies rapidly
+Understanding of no-schema DBs, multi-threaded apps and processes.
+Understanding of Identity management concepts:
+Security concepts such as certificates, types of tokens, SCIM\Open ID Connect\OAuth... protocols
+Identity management request lifecycle (Service Provider initiated vs Identity Provider Initiated).
+User Directory concepts such as Active Directory, user groups, security policies, authentication and authorization etc.
+Experience in full stack web development\Windows programming using Win32/COM is a bonus
+Knowledge on Active-Directory, authentication and authorization mechanisms
+Experience on kernel mode development is a plus
+Experience in handling Visual Studio on Windows\Mac is a plus.
+Experience on various API hooking mechanisms on Microsoft Windows.
+Excellent debugging and troubleshooting skills on Windows/Mac/Mobile applications.
+Exposure to compliance policies and processes (SOX\GDPR\PII & PHI data handling\SCRUM\ etc.).
+Understanding of various architectures, product designs, data structures, algorithms and design patterns.
+Understanding of CI-CD, GIT concepts, systems, workflow and associated terminology.
+Experience in automation of unit tests\selenium tests is an add-on (NUnit\JUnit\Appium\Espresso.).
+Experience\understanding of MFA concepts\disciplines is an add-on.
+
+
+Qualifications
+
+Desired Skills:
+
+
+Experience with test automation frameworks such as Appium and XCTest, and XCUITest
+Working experience in mobile device management
+Experience with test automation frameworks such as Appium and Espresso.
+Working experience in mobile device management
+Understanding of PKI, Certificate security, encryption, HTTPS
+Strong familiarity with object-oriented design and programming concepts
+Excellent collaboration and communication (verbal and written) skills
+Prior Agile/Scrum work experience

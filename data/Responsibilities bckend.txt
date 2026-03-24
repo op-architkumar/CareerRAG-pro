@@ -1,0 +1,24 @@
+Responsibilities
+
+Design and implement web APIs, building REST API services.
+Implement unit/functional/integration tests.
+Evaluate the implemented code and its possible optimization.
+Analyze and fix errors resulting from software malfunctions.
+Code development according to the best practices for application and data security.
+Collaborate with frontend developers, testers, and project managers to integrate with other software systems.
+Work with an international team and share knowledge, skills, and information with your teammates.
+
+Requirements
+
+Good in Scala Functional Programming with any Microservices Frameworks: Play/Akka/Lagom/Slick/Finch/Chaos/Lift/BlueEyes/Scalatra.
+Solid hands-on experience with advanced FP libraries (like Cats/Scalaz/ZIO) and very comfortable with FP concepts and FP optimizations like tail recursion or trampolining.
+Strong analytical and problem-solving skills, with hands-on experience building reliable large-scale distributed systems on Akka Streams, Akka clustering, and Akka HTTP methods.
+Comfort with workflows in GitLab, Jira, and Confluence.
+Comfort with large data sets, preferably experience with Redis, PostgreSQL, MySQL, Oracle, DB2 or NoSQL databases such as Apache Cassandra, Amazon ElastiCache, Redis, Splunk, or Elasticsearch.
+Strong communication and interpersonal skills.
+
+This job was posted by Krishna Chaitanya Bandaru from Unify.
+
+
+Desired Skills and Experience
+Scala
